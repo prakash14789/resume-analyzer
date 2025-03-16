@@ -1,1 +1,1 @@
-# resume-analyzer
+# resume-analyzer project
